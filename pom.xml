@@ -1,5 +1,5 @@
 
-delVersion>4.0.0</modelVersion>
+<modelVersion>4.0.0</modelVersion>
  
   <groupId>sample.plugin</groupId>
   <artifactId>hello-maven-plugin</artifactId>
